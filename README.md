@@ -15,6 +15,6 @@ npm test
 ### Breief description of the project
 * ./features - contains *.feature executable specification  
 * ./scr - api requests layer added here, so to easier communicate and extend api and http requests
-* ./steps - reusable test steps difined, wich can be useed/bind with the *.feature filed
+* ./steps - reusable test steps difined, wich can be used/binded with the *.feature files
 * the scope of tests are definitly not completed. I've added only initial verification for quick start
 
